@@ -1,5 +1,7 @@
 <h2>¡Hola! <img alt="Mano saludando" src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"/></h2>
 
+<img align='right' src="https://antonio.laguna.es/img/avatar.png" width="200">
+
 <p>¡Bienvenido a mi página!<br/> Soy Antonio, ingeniero frontend de <img alt="Bandera de España" src="https://image.flaticon.com/icons/svg/197/197593.svg" width="13"/> <strong>Sevilla, España</strong> trabajando en remoto para <a href="https://10up.com/">10up <img alt="Bandera de España" src="https://10up.com/wp-content/themes/10up-sept2016/assets/img/apple-touch-icon.png" width="13"></a>.</p>
 
 <p>Welcome to my page!<br/> I'm Antonio, frontend engineer from <img alt="Spain's flag" src="https://image.flaticon.com/icons/svg/197/197593.svg" width="13"/> <strong>Seville, Spain</strong> working remotely for <a href="https://10up.com/">10up <img alt="Bandera de España" src="https://10up.com/wp-content/themes/10up-sept2016/assets/img/apple-touch-icon.png" width="13"></a>.</p>
