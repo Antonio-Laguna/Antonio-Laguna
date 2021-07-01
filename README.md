@@ -15,9 +15,9 @@
   <img alt="StackOverflow" src="https://img.shields.io/badge/-Stack Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="GreenSock" src="https://img.shields.io/badge/-GreenSock-88CE02?style=flat-square&logo=greensock&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" /> 
-  <img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black" /> 
-  <img alt="PostCSS" src="https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white" /> 
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
+  <img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black" />
+  <img alt="PostCSS" src="https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
@@ -37,12 +37,25 @@
 
 <h3>Dónde encontrarme</h3>
 <p><a href="https://antonio.laguna.es/" target="_blank"><img alt="Mi Web" src="https://img.shields.io/badge/Blog-14213D.svg?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAUCAYAAACeXl35AAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAHKADAAQAAAABAAAAFAAAAAB3BZ1ZAAACkklEQVRIDaWVS0gWURTHv9E0K03oRQ+yl0XUroiiVYsIe2xqGVFREW5alG0iKNq0zU3kohY9Fm2KcBkV1kpKw00kqRslEcsIFBNCp99/vnOHmTvzjYEHfnPuOf9zX9/cuV9QqmBhGDYgXYZjsBXWwQSMQhc8D4KgF79wY7KL8Btk09ADb6APfoGzThprFzQjA9y20UbwZ2FJckDiKjgEr0A2DjuSNf/dpuMZjYBNwmlYWdQZ/TzMwuB8tZlx6LAGfkLSZghuZIoTCfSr1qEjkZ6/SacO6ziGvwnX4JvlrheNQI3e8V/YVlQXaxQ2whToQMSdaDeAJtVgW+IOXgPtOMjuelJ+SOGVqDwM2/wK8i2mtfuai9GrYQK+uFyhp/ADyNb7heQCGAANWOXrLkZ7BrKNLpfndcTrEQ5APx+yPuqUkQtJdMIK2JcS08EnC3en0+lIK94PNfA2LaWibou0sMhY6C3ohXOWGjC/03yu04S7TJnKrSgnf5i2V55JdNXdgT3wgFjjDIFsc/Ss8FChW9ElOlY6iS3Wf5P5cbxbhF7FHPGkaXpFFW0RSpOpulU+MulD/Gf4A81wFI6ATBd4iQn0CWl3B+G1cthM2ZWWms93dOwGXdCHoR9809X1BHRxu11kBkOrA91M7zIiCfIn4IKO/CBxLatuoq0da1fbYRUMw1e0UbQXtE/BMuJpfMao6SO5AX21L6LpG23UzLo/9RMWGjWPQKaF5Bray6iifKjiGvUB7b5Lh6YWclcc9yg3XE2dl0+Gjy3QyY0Whl9O7j4shqfaoWYu+gajMai5B7L4ro0E74Hu/ifnaOu/UmdA9h6q9c7G4LvXLy/UZzAC+lWK7CRiK+h06zz0gDbUzrud/QfAfiuoGcbVBgAAAABJRU5ErkJggg==&logoColor=white" /></a>
- <a href="https://twitter.com/ant_laguna" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+ <a href="https://twitter.com/ant_laguna" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.youtube.com/antonio_laguna" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/alagunamatias/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Antonio-Laguna/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
 
+<h3>Mis últimos artículos</h3>
+<ul>
+    <li><a href="https://antonio.laguna.es/posts/genera-imagenes-sociales-forma-automatica-cloudinary/"><strong>Genera imágenes sociales para tus posts de forma automática con Cloudinary</strong></a><br/><em>Haz que tu contenido destaque en Twitter y Facebook generando automáticamente imágenes para tus artículos</em></li>
+    <li><a href="https://antonio.laguna.es/posts/preparando-y-exportando-iconos-svg/"><strong>Preparando y exportando iconos SVG</strong></a><br/><em>Veamos cómo exportar un icono SVG desde Figma para que nos sea conveniente con los estilos y que no pese un quintal</em></li>
+    <li><a href="https://antonio.laguna.es/posts/guia-react-aprendiendo-jsx/"><strong>Fundamentos de React: Aprendiendo JSX</strong></a><br/><em>Aprende sobre JSX. El lenguaje que ha creado React mezclando HTML y JavaScript. Indagamos en los componentes, elementos, props y algunos patrones.</em></li>
+    <li><a href="https://antonio.laguna.es/posts/guia-react-para-principiantes-con-hooks/"><strong>Guía de React con Hooks para principiantes</strong></a><br/><em>Vamos a descubrir React juntos y a aprenderlo desde cero. En esta ocasión vamos a crear nuestra primera aplicación y nuestro primer hook.</em></li>
+    <li><a href="https://antonio.laguna.es/posts/metodos-propiedades-privadas-javascript/"><strong>Métodos de clase y métodos y propiedades estáticas y privadas en JavaScript</strong></a><br/><em>Repasamos las novedades sobre clases que Babel incluye por defecto y que están por llegar en ES2021.</em></li>
+</ul>
+
 ---
 
-<p align="center">Este <i>README</i> se genera cada día.</p>
+<p align="center">
+  Este <i>README</i> se genera cada día.
+  <br />
+  Última vez: jueves, 1 de julio 23:09 CEST
+</p>
