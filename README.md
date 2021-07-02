@@ -57,5 +57,5 @@
 <p align="center">
   Este <i>README</i> se genera cada día.
   <br />
-  Última vez: jueves, 1 de julio 23:09 CEST
+  Última vez: viernes, 2 de julio 12:21 CEST
 </p>
