@@ -26,8 +26,8 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Firefox" src="https://img.shields.io/badge/-Firefox-20123A?style=flat-square&logo=firefox&logoColor=white" />
-  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup-dot-js&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node-dot-js&logoColor=white" />
+  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img alt="PhpStorm" src="https://img.shields.io/badge/-PhpStorm-000000?style=flat-square&logo=PhpStorm&logoColor=white" />
   <img alt="Gutenberg" src="https://img.shields.io/badge/-Gutenberg-000?style=flat-square&logo=gutenberg&logoColor=white" />
   <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
@@ -57,5 +57,5 @@
 <p align="center">
   Este <i>README</i> se genera cada día.
   <br />
-  Última vez: viernes, 2 de julio 12:21 CEST
+  Última vez: domingo, 4 de julio 19:17 CEST
 </p>
