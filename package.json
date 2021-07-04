@@ -2,7 +2,7 @@
   "name": "personal-readme",
   "version": "1.0.0",
   "private": false,
-  "description": "<h2>¡Hola! <img alt=\"Mano saludando\" src=\"https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505\" width=\"30\"/></h2>",
+  "description": "My dynamic README for my GitHub Profile using GH Actions, Node and Mustache.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
