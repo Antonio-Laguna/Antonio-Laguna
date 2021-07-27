@@ -45,11 +45,11 @@
 
 <h3>Mis últimos artículos</h3>
 <ul>
+    <li><a href="https://antonio.laguna.es/posts/introduccion-css-propiedades-personalizadas/?utm_source=GitHub&utm_campaign=README"><strong>Introducción a las propiedades personalizadas o variables en CSS</strong></a><br/><em>Veamos qué nos ofrecen las custom properties en CSS y cómo interactúan con la cascada.</em></li>
     <li><a href="https://antonio.laguna.es/snippets/mejora-tus-animaciones-en-hover/?utm_source=GitHub&utm_campaign=README"><strong>Mejora tus animaciones en hover y en focus</strong></a><br/><em>Pequeño truco con CSS para evitar saltos en las animaciones que se activan en hover.</em></li>
     <li><a href="https://antonio.laguna.es/posts/guia-react-renderizar-listas-elementos-componentes/?utm_source=GitHub&utm_campaign=README"><strong>Fundamentos de React: Renderizando listas de elementos y componentes</strong></a><br/><em>Aprendemos a renderizar listas de elementos con JSX y vemos la importancia del atributo key en React, sus reglas y cuándo podemos usar un índice.</em></li>
     <li><a href="https://antonio.laguna.es/posts/readme-personal-dinamico-github-actions/?utm_source=GitHub&utm_campaign=README"><strong>Creando un README personal dinámico con GitHub Actions</strong></a><br/><em>Automatizamos la actualización de nuestro README personal para darle un toque extra gracias a las acciones de GitHub.</em></li>
     <li><a href="https://antonio.laguna.es/posts/genera-imagenes-sociales-forma-automatica-cloudinary/?utm_source=GitHub&utm_campaign=README"><strong>Genera imágenes sociales para tus posts de forma automática con Cloudinary</strong></a><br/><em>Haz que tu contenido destaque en Twitter y Facebook generando automáticamente imágenes para tus artículos</em></li>
-    <li><a href="https://antonio.laguna.es/posts/preparando-y-exportando-iconos-svg/?utm_source=GitHub&utm_campaign=README"><strong>Preparando y exportando iconos SVG</strong></a><br/><em>Veamos cómo exportar un icono SVG desde Figma para que nos sea conveniente con los estilos y que no pese un quintal</em></li>
 </ul>
 
 ---
@@ -57,7 +57,7 @@
 <p align="center">
   Este <i>README</i> se genera cada día.
   <br />
-  Última vez: lunes, 26 de julio 12:36 CEST
+  Última vez: martes, 27 de julio 12:21 CEST
   <br />
   <em>¿Quieres saber cómo está hecho? ¡<a href="https://antonio.laguna.es/posts/readme-personal-dinamico-github-actions/?utm_source=GitHub&utm_campaign=README">Te lo cuento aquí</a>!</em>
 </p>
