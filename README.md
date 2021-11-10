@@ -45,11 +45,11 @@
 
 <h3>Mis últimos artículos</h3>
 <ul>
+    <li><a href="https://antonio.laguna.es/posts/seis-meses-10up-mi-experiencia/?utm_source=GitHub&utm_campaign=README"><strong>6 meses en 10up - Mi experiencia</strong></a><br/><em>Hace ya algo más de seis meses desde que cambié de empresa. Comparto contigo mi reflexión inicial.</em></li>
     <li><a href="https://antonio.laguna.es/snippets/consigue-favicon-dinamico-modo-oscuro/?utm_source=GitHub&utm_campaign=README"><strong>Cómo conseguir un favicon dinámico para el modo oscuro</strong></a><br/><em>Descubre cómo puedes usar un favicon diferente dependiendo de si está activado el modo oscuro o el modo claro en el navegador del usuario.</em></li>
     <li><a href="https://antonio.laguna.es/posts/trabajando-en-las-sombras/?utm_source=GitHub&utm_campaign=README"><strong>Trabajando en las sombras</strong></a><br/><em>Desde Julio hasta Octubre he tenido abandonado el blog, ¿te interesa saber algunas de las cosas que he ido haciendo? ¡Sigue leyendo!</em></li>
     <li><a href="https://antonio.laguna.es/posts/migrando-sass-a-postcss/?utm_source=GitHub&utm_campaign=README"><strong>Migrando de Sass a PostCSS</strong></a><br/><em>Descubre cómo puedes usar PostCSS para reemplazar Sass con CSS moderno</em></li>
     <li><a href="https://antonio.laguna.es/posts/introduccion-css-propiedades-personalizadas/?utm_source=GitHub&utm_campaign=README"><strong>Introducción a las propiedades personalizadas o variables en CSS</strong></a><br/><em>Veamos qué nos ofrecen las custom properties en CSS y cómo interactúan con la cascada.</em></li>
-    <li><a href="https://antonio.laguna.es/snippets/mejora-tus-animaciones-en-hover/?utm_source=GitHub&utm_campaign=README"><strong>Mejora tus animaciones en hover y en focus</strong></a><br/><em>Pequeño truco con CSS para evitar saltos en las animaciones que se activan en hover.</em></li>
 </ul>
 
 ---
@@ -57,7 +57,7 @@
 <p align="center">
   Este <i>README</i> se genera cada día.
   <br />
-  Última vez: martes, 9 de noviembre 11:22 CET
+  Última vez: miércoles, 10 de noviembre 11:22 CET
   <br />
   <em>¿Quieres saber cómo está hecho? ¡<a href="https://antonio.laguna.es/posts/readme-personal-dinamico-github-actions/?utm_source=GitHub&utm_campaign=README">Te lo cuento aquí</a>!</em>
 </p>
