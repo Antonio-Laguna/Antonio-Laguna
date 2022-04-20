@@ -57,7 +57,7 @@
 <p align="center">
   Este <i>README</i> se genera cada día.
   <br />
-  Última vez: martes, 19 de abril, 12:25 CEST
+  Última vez: miércoles, 20 de abril, 12:24 CEST
   <br />
   <em>¿Quieres saber cómo está hecho? ¡<a href="https://antonio.laguna.es/posts/readme-personal-dinamico-github-actions/?utm_source=GitHub&utm_campaign=README">Te lo cuento aquí</a>!</em>
 </p>
