@@ -2,9 +2,9 @@
 
 <img align="right" alt="Dibujo de mi avatar" src="https://res.cloudinary.com/antonio-laguna/image/upload/v1624254488/antonio.laguna/avatar_c05u41.png" width="150">
 
-<p>¡Bienvenido a mi página!<br/> Soy Antonio, ingeniero frontend de <img alt="Bandera de España" src="https://image.flaticon.com/icons/svg/197/197593.svg" width="13"/> <strong>Sevilla, España</strong> trabajando en remoto para <a href="https://10up.com/">10up <img alt="Bandera de España" src="https://10up.com/wp-content/themes/10up-sept2016/assets/img/apple-touch-icon.png" width="13"></a>.</p>
+<p>¡Bienvenido a mi página!<br/> Soy Antonio, ingeniero frontend de <img alt="Bandera de España" src="https://res.cloudinary.com/antonio-laguna/image/upload/v1674896612/spain_hkvsdv.png" width="13"/> <strong>Sevilla, España</strong> trabajando en remoto para <a href="https://10up.com/">10up <img alt="Bandera de España" src="https://10up.com/wp-content/themes/10up-sept2016/assets/img/apple-touch-icon.png" width="13"></a>.</p>
 
-<p>Welcome to my page!<br/> I'm Antonio, frontend engineer from <img alt="Spain's flag" src="https://image.flaticon.com/icons/svg/197/197593.svg" width="13"/> <strong>Seville, Spain</strong> working remotely for <a href="https://10up.com/">10up <img alt="Bandera de España" src="https://10up.com/wp-content/themes/10up-sept2016/assets/img/apple-touch-icon.png" width="13"></a>.</p>
+<p>Welcome to my page!<br/> I'm Antonio, frontend engineer from <img alt="Spain's flag" src="https://res.cloudinary.com/antonio-laguna/image/upload/v1674896612/spain_hkvsdv.png" width="13"/> <strong>Seville, Spain</strong> working remotely for <a href="https://10up.com/">10up <img alt="Bandera de España" src="https://10up.com/wp-content/themes/10up-sept2016/assets/img/apple-touch-icon.png" width="13"></a>.</p>
 
 <h3>Cosas que uso/programo</h3>
 <p>
@@ -57,7 +57,7 @@
 <p align="center">
   Este <i>README</i> se genera cada día.
   <br />
-  Última vez: viernes, 27 de enero, 11:19 CET
+  Última vez: sábado, 28 de enero, 10:04 CET
   <br />
   <em>¿Quieres saber cómo está hecho? ¡<a href="https://antonio.laguna.es/posts/readme-personal-dinamico-github-actions/?utm_source=GitHub&utm_campaign=README">Te lo cuento aquí</a>!</em>
 </p>
